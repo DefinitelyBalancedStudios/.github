@@ -1,4 +1,4 @@
-# 🎮 Definitely Balanced Studios™
+# 🎮 Definitely Balanced Studios
 
 > *"All our games ship perfectly balanced... until you play them."*
 
@@ -31,7 +31,6 @@ We’re a tiny indie game studio dedicated to:
 ---
 
 ## 👀 What to Expect Here
-- Public prototypes (yes, with placeholder cubes)  
 - Random experiments that may or may not become features  
 - Spaghetti Visual Scripting graphs 🍝  
 - Asset lists and design docs with way too many comments  
